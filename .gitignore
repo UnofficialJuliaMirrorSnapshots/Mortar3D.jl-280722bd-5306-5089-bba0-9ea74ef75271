@@ -1,0 +1,7 @@
+docs/build
+docs/site
+.ipynb_checkpoints
+*.cov
+*.pyc
+*.swp
+*~
